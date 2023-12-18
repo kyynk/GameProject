@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - collection
+  - enemy
+  - deadline
+  - coin
+  - Traps
+  - Key
+  - ' vaccine'
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - Gound
+  - Player
+  - Traps
+  - Test Layer
+  - vaccine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 1338167069
+    locked: 0
+  - name: bbbbcastle
+    uniqueID: 1369641327
+    locked: 0
+  - name: backcastle
+    uniqueID: 153716075
+    locked: 0
+  - name: decoration
+    uniqueID: 2142852313
+    locked: 0
+  - name: middlecastle
+    uniqueID: 1788142911
+    locked: 0
+  - name: background
+    uniqueID: 4041314899
+    locked: 0
+  - name: player
+    uniqueID: 1912099885
+    locked: 0
